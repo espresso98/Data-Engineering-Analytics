@@ -3,4 +3,4 @@
 3. Music Data Analysis Using PySpark
 4. Naïve Bees: Image Loading and Processing
 5. Streamlining Employee Data
-6. Olympic_Medalists_Analysis_using_Pandas
+6. Olympic Medalists Analysis using Pandas
